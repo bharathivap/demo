@@ -36,6 +36,6 @@ public class School {
         this.schoolName=schoolName;
     }
 
-
+   System.out.println("hello world");
 
 }
