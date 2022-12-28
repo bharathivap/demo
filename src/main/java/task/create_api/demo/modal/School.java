@@ -35,7 +35,7 @@ public class School {
     public void setSchoolName(String schoolName) {
         this.schoolName=schoolName;
     }
-
+    String S = "Tech";
 
 
 }
